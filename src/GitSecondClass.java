@@ -1,0 +1,2 @@
+public class GitSecondClass {
+}
